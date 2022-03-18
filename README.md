@@ -7,3 +7,7 @@ This is a sample readme file for our Github Example repo. We're learning Markdow
 
 ## Link Example
 [westgate](https://www.westgate.ng)
+
+1. Item One
+2. Item Two
+3. Item Three
