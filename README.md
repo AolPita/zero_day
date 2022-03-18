@@ -6,4 +6,4 @@ This is a sample readme file for our Github Example repo. We're learning Markdow
 * Markdown is really fast and pretty cool
 
 ## Link Example
-	[Online](https://www.westgate)
+	[westgate](https://www.westgate.ng)
